@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent  {
   name = 'Angular';
-  typeaheadOptions = [60085, 60048];
+  typeaheadOptions = [60085, 60048, 60084];
 }
